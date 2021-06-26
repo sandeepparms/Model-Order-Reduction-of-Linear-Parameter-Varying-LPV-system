@@ -2,8 +2,7 @@
 
 **In this project, we inspect the following spring-mass-damper system in which spring stifness is not constant but varies linearly according to a parameter**
 
-![spring_mass_damper](https://user-images.githubusercontent.com/86435953/123509389-7fe27f80-d675-11eb-9652-e6d8a830bd65.PNG)
-
+<img src="https://user-images.githubusercontent.com/86435953/123509389-7fe27f80-d675-11eb-9652-e6d8a830bd65.PNG" width="700"  />
 
 **Free body diagram of second mass with first and third mass attached to it**
 
@@ -19,12 +18,12 @@ method for LPV systems is carried out. The notion of an internally balanced real
 
 ## Time domain analyis of full order and truncated system
 
-![step_resp_10mass_2params](https://user-images.githubusercontent.com/86435953/123509221-70af0200-d674-11eb-828d-4d50682a43bc.png)
+<img src="https://user-images.githubusercontent.com/86435953/123509221-70af0200-d674-11eb-828d-4d50682a43bc.png" width="500"  />
 
 ## Variation of singular values in LPV parameter space for 2 parameters
 
-![sing_val_10mass_2params](https://user-images.githubusercontent.com/86435953/123509225-76a4e300-d674-11eb-87d9-2d9f04293cd4.png)
+<img src="https://user-images.githubusercontent.com/86435953/123509225-76a4e300-d674-11eb-87d9-2d9f04293cd4.png" width="500"  />
 
 ## Bode plot: Full order system vs truncated system with 6 masses and 3 parametres
 
-![Bode_plot_6masses_3params_rate_1_grid_12_pts](https://user-images.githubusercontent.com/86435953/123509253-9936fc00-d674-11eb-9635-bbaa9f56d0cb.png)
+<img src="https://user-images.githubusercontent.com/86435953/123509253-9936fc00-d674-11eb-9635-bbaa9f56d0cb.png" width="500"  />
